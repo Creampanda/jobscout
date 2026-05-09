@@ -109,6 +109,41 @@ Do NOT include in red_flags:
 - Subjective culture impressions ("the tone feels too corporate"). Stick
   to objective, verifiable signals.
 
+## Handling alternatives ("X or Y or Z")
+
+Job postings often list alternatives: "Strong proficiency in Ruby, Go,
+or Java" means the candidate needs ONE of them, not all three. This must
+be reflected in the output, otherwise downstream the candidate matching
+will incorrectly fail.
+
+**Detection:** look for these signals around a list of skills:
+
+- "or" between alternatives: "Python or Ruby or Go"
+- "one of": "experience with one of: AWS, GCP, Azure"
+- "at least one": "at least one of Go, Java, Kotlin"
+- "any of": "any of the following languages"
+- "such as" + list: "experience with backend languages such as
+  Java, Kotlin, or Scala"
+
+**Encoding:** when alternatives are detected, combine them into a SINGLE
+skill entry that explicitly preserves the "or" relationship. Use this format:
+
+  "Ruby OR Go OR Java"
+
+Use uppercase OR as the separator, so it's machine-parseable downstream.
+
+DO NOT split alternatives into separate skill entries — that incorrectly
+implies all are required.
+
+**Counter-example:** when skills are listed with "and" (or just commas
+without explicit "or"), they ARE all required, list them separately.
+
+  Source: "We use Python, Django, and PostgreSQL"
+  Encoded: ["Python", "Django", "PostgreSQL"]    ← all required, separate
+
+  Source: "Strong proficiency in Ruby, Go, or Java"
+  Encoded: ["Ruby OR Go OR Java"]                ← single combined entry
+
 ## Examples
 
 ### Example 1: clear seniority signal
@@ -160,6 +195,26 @@ Extracted (partial):
 
 Note: each flag explains the reasoning with a concrete reference, not just
 a label. This is the expected format for red_flags entries.
+
+### Example 4: alternative skills ("or")
+
+Input fragment:
+"5+ years of backend engineering experience.
+Strong proficiency in Ruby, Go, or Java.
+Experience with distributed systems and microservices."
+
+Extracted (partial):
+{
+  "must_have_skills": [
+    "Ruby OR Go OR Java",
+    "distributed systems",
+    "microservices"
+  ]
+}
+
+Note: "Ruby, Go, or Java" is a single skill expressing alternatives —
+candidate needs only ONE of them. Distributed systems and microservices
+have no "or", so they are separate required skills.
 
 ## Final reminder
 
