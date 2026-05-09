@@ -1,0 +1,166 @@
+About Philo
+
+
+Philo is building the future of television. Our product lets you watch your favorite shows on all the devices you care about, with seamless playback, insightful discovery, and effortless sharing. In short, we’re building the TV experience that we’ve always wanted for ourselves.
+
+
+We’re a company that puts people first — both our subscribers and our team. At Philo, our philosophy is to empower our colleagues to do their best work while supporting each other in pursuing shared goals. We value pragmatism, pride in our work, and passion. We believe in having transparency and openness across all parts of the company.
+
+
+We are committed to diversity and inclusion as we grow the Philo team and shape the future of TV. We believe that a diverse set of voices and perspectives on our team enables us to innovate faster and create the best experience for our subscribers.
+
+
+Philo is headquartered in San Francisco, with additional offices in New York and Cambridge, MA. Our leadership team includes a cofounder of Facebook as well as alums of Meraki and HBO. Philo is backed by NEA and industry partners including Discovery, Viacom, AMC, and A&E.
+
+
+Lead Backend Software Engineer (Product API)
+
+
+Philo aims to connect customers with their favorite shows, help them discover new favorites, and get them seamlessly into the video player watching their next shows. The Product API team is central to this mission and powers virtually every non-media interaction in our application delivering a personalized experience for millions of users across web, mobile, and connected TV platforms.
+
+
+The team builds out the Philo show catalog and exposes it via search, ML powered recommendation, and platform integration like search on Roku, FireTV, and tvOS. They provide a robust API to clients platforms to access this catalog along with features needed for a streaming service like saving shows, sending notifications, and running experiments. They do this all while load testing and scaling the system to millions of users and considering security and privacy. A challenge for the team is to support many different clients and the team has built out frameworks, infrastructure, and APIs to enable this. For example, building out a framework on top of GraphQL to dynamically change the home page instantly and across all platforms without any client modification allowing for content curation, user personalization, and all types of home page experimentation.
+
+
+Engineering leads at Philo lead by example, and are expected to ship features, triage bugs, manage releases, and generally advocate for quality throughout the codebase. We are seeking an enthusiastic, experienced backend engineer with a deep technical background building scalable APIs, services, and platform infrastructure. You will contribute to the technical vision and roadmap for Product API, drive architecture and reliability with strong observability, coordinate cross-team delivery to unblock new user experiences, and ensure partner integrations land smoothly. You'll model best practices to the team, unblock your teammates when they are stuck, and help ensure platform stability and clarity of contracts as the team delivers multi-quarter outcomes.
+
+
+Responsibilities
+
+
+
+Provide technical leadership to members of the Product API team, including input on system architecture and design tradeoffs, as well as coaching other members of the team and mentoring new hires.
+
+Collaborate with product and client engineering teams to design and deliver GraphQL APIs that enable rich, performant user experiences while maintaining clean separation of concerns and optimal client-server interactions.
+
+Own and evolve critical product subsystems including recommendations, catalog, search, in-app notifications, user preferences, viewing history, collections, experiments, and feature flags.
+
+Build and maintain proxy and augmentation layers that integrate domain services from across the organization (such as video infrastructure, recommendations systems, and search) into a cohesive, unified API.
+
+Drive continuous improvements to the reliability, performance, scalability, and maintainability of Philo's product API infrastructure, ensuring sub-second response times and high availability across all endpoints.
+
+Collaborate with data science and product analytics teams to instrument the API layer for experimentation, A/B testing, and feature rollouts, enabling data-driven product decisions.
+
+Build and enhance observability tools to proactively monitor API performance, identify bottlenecks, debug issues, and ensure optimal cache utilization across the system.
+
+Work with infrastructure teams to optimize database queries, implement effective caching strategies, and ensure DataServer scales efficiently as Philo's user base grows.
+
+
+Qualifications
+
+
+
+8+ years of software development experience.
+
+2+ years of experience mentoring and providing technical guidance to other engineers (bonus points for experience or interest in managing engineering teams).
+
+Strong experience designing and implementing GraphQL APIs at scale (bonus points for experience with complex schema design, query optimization, and federation patterns).
+
+Proven track record of building highly efficient and highly available backend services using NodeJS, Ruby, Golang, Python, or similar programming languages.
+
+Experience operating in cloud computing environments using modern software deployment technologies (e.g. Docker, Kubernetes, AWS).
+
+Deep understanding of API design principles, RESTful and GraphQL patterns, caching strategies, and performance optimization techniques.
+
+Experience working with large amounts of data and making data-based decisions to prioritize projects, including familiarity with relational and non-relational databases and modern data warehousing and querying with SQL.
+
+Strong systems thinking with the ability to design cohesive API abstractions that cleanly separate concerns while enabling flexibility for diverse client needs.
+
+Experience building proxy and aggregation layers that integrate multiple backend services into unified APIs.
+
+Familiarity with experimentation frameworks, feature flag systems, and A/B testing infrastructure.
+
+Experience and aptitude for collaborating and communicating with internal stakeholders across product, design, client platform engineering, and data science teams.
+
+Understanding of video streaming product ecosystems and the unique challenges of building APIs for multi-platform applications (web, mobile, TV).
+
+Expertise in either product-facing API development or machine learning systems and model serving infrastructure.
+
+
+We are language agnostic, but most of our backend code is written in Golang, NodeJS and Ruby, with some C++ and Python. Our services run on Kubernetes, and we practice continuous deployment across all of our systems.
+
+
+More about Philo
+
+
+At Philo, we’re a company that puts people first—both our subscribers and our team. We empower our colleagues to do their best work while supporting one another in pursuing shared goals. We value pragmatism, pride in our work, and passion, with transparency and openness as fundamental parts of our culture.
+
+
+We’re committed to diversity, equity, inclusion, and accessibility as we grow the Philo team and shape the future of TV. We believe that a diverse range of voices and perspectives enables us to innovate faster and create the best experiences for our subscribers. Philo is proud to be an Equal Opportunity Employer. We’re committed to supporting every candidate and employee. If you need an accommodation at any stage of the process, please email recruiting@philo.com and we’ll work with you to meet your needs.
+
+
+Philo offers 70+ top-rated networks, including AMC, BET, CMT, Comedy Central, Discovery Channel, Food Network, Hallmark Channel, HGTV, HISTORY, Investigation Discovery, Lifetime, MTV, Nickelodeon, OWN, VH1, We TV, and more. It also includes all the groundbreaking originals and blockbuster movies available with AMC+ and access to HBO Max Basic With Ads and discovery+. Our service also includes 100+ free channels and premium add-ons like STARZ and MGM+.
+
+
+Our extensive library boasts over 85,000 titles, and our unlimited DVR allows users to save their favorite shows and movies for up to a year, skipping ads for a seamless viewing experience. Stream on up to three devices simultaneously, whether on your phone, tablet, laptop, or TV using Roku, Apple TV, Fire TV, Samsung TV, Android TV, Vizio TV, or Chromecast.
+
+
+Philo is headquartered in San Francisco, with offices in New York and Cambridge, MA. Our leadership team includes a Facebook co-founder and alums from Meraki and HBO, backed by NEA and industry partners like Discovery, Viacom, AMC, and A&E.
+
+
+Join us at Philo and be part of a team that's shaping the future of TV!
+
+
+Projected Start Date: ASAP
+Status: Full-time
+Location: San Francisco, CA, Brooklyn, NY, Cambridge, MA, or remote
+Compensation: Includes annual salary, company stock options, and health benefits. Salary is determined by experience and location:
+
+
+
+San Francisco, New York City: $200K - $235K
+
+Boston, DC Metro, Los Angeles, Seattle: $190K - $225K
+
+Denver, Atlanta, Austin, Las Vegas, Sacramento, Chicago: $189K - $215K
+
+Texas, Florida: $170K - $205K
+
+
+We value a diverse and inclusive workplace and we welcome people of different backgrounds, experiences, skills, and perspectives. Philo is an equal opportunity employer. We believe that everyone does their best work when they are supported by each other and the company, and we offer a generous set of benefits to make sure the Philo team is happy and healthy. Here is a sampling of the benefits we offer our team:
+
+
+
+Full health, dental and vision coverage for you and your family
+
+401(k) plan with employer contributions (we match 100% of deferrals up to 3% of pay and 50% of the next 2% of pay)
+
+Flexible working hours
+
+Up to 20 weeks of fully paid parental leave
+
+Unlimited paid time off for vacation and sick leave
+
+$2,000 annual vacation bonus (we pay you to take a two week vacation)
+
+$5,250 annually for professional development and educational assistance
+
+$1,250 annual home office + TV stipend during first year of employment ($250 annually thereafter)
+
+$500/month ($6,000/year) bonus for employees who commit to working at least 3 days per week in our offices, plus generous commuter benefits ($315/month towards transit, rideshare, bike rental, or parking at our HQ office in San Francisco)
+
+Free Gympass subscription — an all-in-one corporate benefit that gives employees the largest selection of gyms, studios, classes, training and wellness apps
+
+Dog-friendly office
+
+And much more!
+
+
+For California Residents: Philo’s CCPA Notice at Collection – Employees, Applicants, Owners, Directors, Officers and Contractors
+
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Philo Star Icon
+View company
+Jobs posted: 1
+
+About the job
+Posted on
+30 days ago
+Apply before
+May 8th, 2026
+Job type
+ Full-Time
+Category
+Back-End Programming

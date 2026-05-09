@@ -1,0 +1,93 @@
+About Atria 
+
+Atria is a membership-based preventive health care practice delivering cutting-edge primary and specialty care in New York, South Florida, Los Angeles (2026), and through 24/7 telemedicine globally.
+
+Our multi-specialty team of 60+ top in-house physicians provides proactive, preventive, and precision-based care for Atria members and their families. We aim to optimize lifespan and healthspan through meticulous screening, leading-edge therapeutics, and tailored interventions designed to prevent disease and detect it at the earliest possible stages. 
+
+Each member's care is led by a dedicated Chief Medical Officer who collaborates with specialists in cardiology, neurology, pediatrics, women's health, endocrinology, integrative health, performance and movement, nutrition, and more.
+
+Through our nonprofit Atria Research Institute and Public Health Institute, we also work to accelerate the translation of medical breakthroughs and expand access to preventive care for as many people as possible.
+
+Atria Health is seeking a Staff Software Engineer who can operate across both domain product teams (Clinical Experience, Member Experience, and Care Delivery) and our technical stack (web, mobile, backend, cloud infrastructure).
+
+This is a senior individual contributor role responsible for:
+
+Providing cross-team technical leadership
+Driving complex, multi-team initiatives from idea to launch
+Partnering closely with Product, Design, and Clinical leaders to ship measurable outcomes
+You’ll collaborate with product managers and engineering leads to shape how features are built, ensure architectural consistency across teams, and take ownership of end-to-end execution for complex projects. From defining solutions to ensuring strong monitoring and clean analytics in Mixpanel, you’ll care deeply about both how we build and what we achieve.
+
+Tech Stack
+Languages: TypeScript
+Backend: Node, Express
+Frontend: React
+Infrastructure: Google Cloud Platform, Terraform
+Database: MySQL
+Tooling & Integrations: Github, Sentry, Okta, Mixpanel, Omni, third-party APIs
+Key Responsibilities
+Product & Delivery
+Work with product managers, designers, and clinical leaders to turn ambiguous problems into clear technical strategies and execution plans.
+Own end-to-end delivery for complex initiatives that cut across multiple product teams and services.
+Personally execute on the highest-priority and most technically challenging projects, setting the standard for quality, velocity, and collaboration.
+Architecture & Systems
+Define and evolve the architecture for core product areas (e.g. member journeys, clinical workflows, care coordination).
+Design APIs, data models, and integration patterns that make it easy to build new clinical and member experiences without re-inventing the wheel.
+Raise the bar on reliability and performance: drive SLOs, capacity planning, and incident-ready designs for the systems you own.
+Quality, Observability & Analytics
+Embed testability in designs: meaningful unit/functional tests, contract tests between services, and automated checks where they matter most.
+Ensure new features are instrumented with high-quality analytics in Mixpanel and that events and properties are consistent across products.
+Work with Product and Data to set up dashboards and monitoring that actually reflect user and clinical outcomes, not just vanity metrics.
+Drive post-incident reviews and systemic improvements when things break.
+Mentorship & Culture
+Mentor senior and mid-level engineers through design guidance, pairing, and thoughtful code review.
+Help define and uphold engineering standards: coding conventions, architecture patterns, documentation norms.
+Model a pragmatic, product-focused mindset: balancing high standards with iterative delivery and experiments.
+Who You Are
+Core Experience
+~8+ years of professional software engineering experience, with significant time as a senior/staff IC building product experiences in production.
+A track record of owning and shipping multi-team projects in modern web stacks.
+Experience working closely with product and design on user-facing features.
+Comfortable leading technical decisions in ambiguous domains and defending those decisions with clear tradeoffs.
+Technical Skills
+Strong full-stack skills: you can design an API and data model, build the UI that consumes it, and wire up monitoring and metrics.
+Deep familiarity with at least one cloud provider and infrastructure-as-code.
+Strong instincts around systems design: reliability, performance, security, and cost all feature in your thinking.
+Excellent debugging and incident-response skills; you’re comfortable digging into logs, traces, and data to understand issues.
+Leadership & Collaboration
+Proven ability to lead through influence: aligning multiple teams/partners on technical direction without needing direct authority.
+Comfort working in a highly cross-functional environment with clinicians, operations, and research in the loop.
+Clear written and verbal communication; you can explain complex technical topics to both engineers and non-technical stakeholders.
+Enjoy mentoring and leveling up the people around you.
+Nice to Have
+Experience in healthcare, digital health, or other regulated domains (HIPAA, PHI, SOC 2, etc.).
+Exposure to EHRs, Wearables Integrations, or other health data platforms
+Reporting & Work Arrangement
+This role reports to the VP of Engineering. This is a remote role with occasional travel to Atria locations.
+
+Compensation
+$200,000–$280,000, depending on location
+
+At Atria, we are proud to offer every member of the Atria team:
+
+Excellent health and wellness benefits, 100% paid by Atria effective date of hire
+OneMedical membership for employees & dependents giving access to 24/7 virtual care
+Fertility & family planning
+Company-covered preventive health screenings through partner hospitals (Calcium score)
+Fitness Perks including Wellhub +
+401k contributions and 4% match starting after 6 months
+Flexible Time Off 
+Continuing medical education (CME) and CEU support for professional licensure
+Time to give back and make an impact in underserved communities
+Atria Physician Practice New York Pc Star Icon
+View company
+Jobs posted: 1
+
+About the job
+Posted on
+8 days ago
+Apply before
+May 30th, 2026
+Job type
+ Full-Time
+Category
+DevOps and Sysadmin

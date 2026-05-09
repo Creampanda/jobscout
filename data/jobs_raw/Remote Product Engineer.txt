@@ -1,0 +1,63 @@
+SuperPlane is hiring a
+Remote Product Engineer
+SuperPlane is building the AI-native control plane for platform engineering.
+
+AI has changed how software gets built. It has not fixed the mess around releases, internal platforms, and the glue code between all the systems teams rely on. We think that layer is about to be rebuilt, and we want to be the company that defines it.
+
+If we do this right, teams stop buying one more DevOps product for each problem and start building their own operational systems on one control plane.
+
+We are early, small, and very ambitious. We ship fast and use AI heavily. SuperPlane is also open source. If you like building dev tools in public, for other engineers, that should matter to you.
+
+
+
+The Role
+We are hiring exceptional product engineers who can fully own projects and get them done.
+
+This is a remote role. We currently work across GMT+2 to GMT-3 and welcome candidates in that range.
+
+At SuperPlane, we are not splitting engineering into frontend and backend roles. Everyone is a well-rounded builder who can move across the stack, make strong product and technical calls, ask for help when needed, and deliver features end to end. You might spend one day tightening an API or workflow engine, and the next day polishing a React surface that users touch every day.
+
+Strong backend and architecture judgment is a real advantage. So is product taste. So is the ability to use AI as a force multiplier without lowering the bar.
+
+
+
+What We Are Looking For
+You are genuinely full-stack.
+
+Your workflow is AI-driven and you know how to stay fast without getting sloppy.
+
+You are strong in Go, TypeScript, React, or comparable tools, and you can get productive fast in adjacent parts of the stack.
+
+You have solid systems judgment. APIs, data models, reliability, and trade-offs matter to you.
+
+You are comfortable with cloud-native tooling and modern software delivery.
+
+You want ownership, not a narrow lane.
+
+You want an early-stage company where the pace is high, the standards are high, and the upside is real.
+
+
+
+Why You'll Love Working at SuperPlane
+See your work used and relied on by engineers across the globe.
+
+Meaningful equity and real ownership.
+
+Small team, fast feedback loops.
+
+Remote role that lets you focus and create.
+
+Please mention the word EXCELLANT when applying to show you read the job post completely (#RMTQ0Ljc2LjIyLjE4Mw==). This is a feature to avoid fake spam applicants. Companies can search these words to find applicants that read this and instantly see they're human.
+
+Salary and compensation
+
+$70,000 — $150,000/year
+
+Benefits
+🌎 Distributed team
+
+⏰ Async
+
+🏖 Paid time off
+
+💰 Equity compensation

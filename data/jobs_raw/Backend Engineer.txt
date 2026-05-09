@@ -1,0 +1,88 @@
+What you will do 
+
+We are looking for a Backend Developer to join our Marketplaces department and become part of the cross-functional Homefinder development team. Together, you will maintain and further develop one of Switzerland’s largest real estate platforms used daily by thousands of users. 
+
+In this role, you will design and develop scalable backend services, build APIs, and help evolve our architecture towards a modern cloud-native platform running on Azure and Kubernetes. You will also contribute to the migration of existing applications from our legacy .NET Framework stack to a modern container-based environment. 
+
+Your responsibilities 
+
+Design, develop, and maintain scalable backend services using .NET Core / ASP.NET 
+
+Build and maintain REST APIs and microservices 
+
+Work with SQL Server and Azure Cosmos DB to manage application data 
+
+Improve search functionality using Elasticsearch 
+
+Deploy and operate applications using Docker and Kubernetes 
+
+Ensure high standards for performance, scalability, security, and reliability 
+
+Monitor, troubleshoot, and resolve production issues 
+
+Collaborate with product managers, designers, and developers to deliver high-quality solutions 
+
+Contribute to the modernization of our platform architecture and rewrite our legacy .NET Framework based backend apps using modern .NET 10 
+
+What you bring 
+
+Degree in Computer Science, Engineering, or comparable practical experience 
+
+3+ years of professional backend development experience 
+
+Strong experience with C#, .NET Core / ASP.NET 
+
+Experience building RESTful APIs and microservices 
+
+Experience with SQL and NoSQL databases 
+
+Familiarity with cloud platforms (ideally Azure) 
+
+Experience with Docker and Kubernetes is a plus 
+
+Experience working in agile teams 
+
+Fluent English 
+
+Nice to have 
+
+Experience with vector databases 
+
+Knowledge of Elasticsearch ranking and search optimization 
+
+Experience with event-driven architectures 
+
+Experience building data ingestion pipelines 
+
+ 
+In return, here is what you can expect from us 
+
+At Comparis, we believe that empowered employees deliver the best results. We cultivate a culture of transparency, mutual respect and trust. Firm believers in lifelong learning, we are always trying out new things and continuously developing – both as individuals and as a team. We also offer flat hierarchies, considerable autonomy and creative freedom, as well as a skilled and motivated team that will advise and support you in your work and make it easy for you to push your own boundaries. Finally, we offer flexible working hours to work from wherever you are and live. 
+
+ 
+Have we triggered your interest? 
+
+Then don't hesitate and apply for our position today. If you have any questions, Daphne, our People Management Lead, will be happy to help. We look forward to receiving your application!   
+ 
+Note: If you are currently residing abroad and are interested in a fully remote setup, please note that the employment would be arranged through our Employer of Record partner, remote.com, and therefore follow the labor laws and employment conditions of your country of residence.  
+
+
+We also only consider direct applicants with a maximum time-zone difference of +/- 2 hours from Switzerland (GMT+2). 
+
+comparis.ch Star Icon
+View company
+Jobs posted: 5
+
+About the job 
+Posted on
+11 days ago
+Apply before
+May 27th, 2026
+Job type
+ Full-Time
+Salary
+$50,000 - $74,999 USD
+Category
+Back-End Programming
+Country 
+🇦🇱 Albania🇧🇦 Bosnia and Herzegovina🇨🇿 Czechia🇬🇷 Greece🇭🇷 Croatia🇭🇺 Hungary🇱🇹 Lithuania🇱🇻 Latvia🇲🇰 North Macedonia🇲🇹 Malta🇵🇱 Poland🇵🇹 Portugal🇷🇴 Romania🇷🇸 Serbia🇸🇮 Slovenia🇸🇰 Slovakia🇹🇷 Türkiye🇺🇦 Ukraine

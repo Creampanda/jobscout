@@ -1,0 +1,59 @@
+Company Description
+About the Business Division:
+
+This role sits within Doctors.net.uk, a subsidiary of M3 Inc. Doctors.net.uk is the UK's largest professional network of doctors; a closed community used by over 50,000 doctors daily and with a total membership of over 245,000. Products range from a trusted email communications platform to robust news and educational web pages along with our world-class sponsored pharmaceutical content and doctors’ own user-generated content. Our mission is to continually improve these offerings as well as identifying new ways to support our community of doctors throughout their careers.
+
+Job Description
+Plan, lead and actively contribute to the development of web/mobile applications in an agile environment
+Take ownership of understanding of the whole system and take responsibility for teaching this to others
+Alongside other senior members of the team, contribute to the strategy and architectural decisions that support the growth of the services we offer to our members and clients
+Provide technical support and mentoring to junior team members
+Find ways to improve system robustness, resilience, and stability
+Qualifications
+Experience in full stack JavaScript .NET stack development utilizing either Node.JS or .NET Core and Web API
+Commercial experience working with web applications in a containerized environment, in particular Docker
+Commercial experience working with content management (CMS) systems.
+Demonstratable experience architecting web based solutions and introducing new technologies and tooling into existing systems and processes
+Experience designing and developing applications utilising databases such as Postgres, MongoDB, MSSQL
+Experience with front-end web development technologies such as ReactJS, VueJS, AngularJS, MVC
+Experience supporting and mentoring junior developers with technical queries and best practice
+Excellent communication skills
+Self-motivated and delivery focused
+Good understanding of Agile process
+Desirable
+
+Experience utilizing/configuring/maintaining microservice container orchestrations platforms such as Mesos/Marathon, Kubernetes
+Experience working with ReactJS component libraries
+Experience building out CI/CD frameworks and build pipelines
+Experience of mobile app development frameworks
+Experience of serverless services such as AWS Lambda or Jamstack
+Experience working with PHP (WordPress)
+Experience of using services provided by AWS/Azure
+Additional Information
+About M3 EU:
+
+M3 EU is at the forefront of healthcare innovation, offering digital solutions across healthcare, life sciences, pharmaceuticals, and more. Since our inception in 2000, we’ve seen remarkable growth, fuelled by our mission to utilize the internet for a healthier world and more efficient healthcare systems.
+
+Our success is anchored in our trusted digital platforms that engage physician communities globally, facilitating impactful medical education, precise job placement, and insightful market research. M3 EU prides itself on a dynamic and innovative work environment where every team member contributes to global health advancements.
+
+Joining M3 EU means being part of a dedicated team striving to make a significant difference in healthcare. We provide a unique opportunity for you to be at the cutting edge of healthcare innovation, shaping the future in a meaningful career. Embrace the chance to drive change with M3 EU.
+
+#LI-JG1
+
+#LI-Remote
+
+M3usa Star Icon
+View company
+Jobs posted: 2
+
+About the job
+Posted on
+7 days ago
+Apply before
+May 31th, 2026
+Job type
+ Full-Time
+Category
+Full-Stack Programming
+Region
+Anywhere in the World

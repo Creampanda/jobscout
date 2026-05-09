@@ -1,0 +1,18 @@
+Stripe is looking for a senior backend engineer to help build the financial infrastructure of the internet. You'll work on scalable systems that handle millions of transactions per day.
+
+5+ years of backend engineering experience
+Strong proficiency in Ruby, Go, or Java
+Experience with distributed systems and microservices
+Stripe
+View company
+Jobs posted: 15
+
+About the job
+Posted on
+17 days ago
+Apply before
+May 22th, 2026
+Category
+Back-End Programming
+Region
+Anywhere in the World

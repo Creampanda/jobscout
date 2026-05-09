@@ -1,0 +1,58 @@
+Avatar for Atomus
+Atomus
+Actively Hiring
+Technology-driven Managed Security Service Provider (MSSP) built for Aerospace and Defense
+Responds within three weeks
+B2B
+Early Stage
++1
+Save
+Apply Now
+Staff Software Engineer
+$290k – $370k • 0.05% – 0.1%
+|
+San Francisco
+|7 years of exp
+|Full Time
+Posted: 3 days ago• Recruiter recently active
+Job Location
+San Francisco
+Remote Work Policy
+In office
+
+Visa Sponsorship
+Available
+
+Relocation
+Allowed
+About the job
+About Atomus
+
+Atomus' mission is to provide world class cybersecurity for the world’s most critical organizations. We build security compliance software delivered as managed services sold directly, with relevant professional services and support. Examples of our commercial customers include hypersonic aircraft companies, satellite and space mission systems companies, AI and software companies, among many other companies serving primarily the aerospace and defense industry.
+
+This role is in person, working with the rest of our team in our downtown San Francisco office.
+
+Primary Duties:
+
+As part of the early engineering team at Atomus, you will be building key infrastructure to scale the foundations of critical products like multiplatform applications (Windows, MacOS, Ubuntu) to help alleviate risk and build compliance and security program for the customers. You will work closely with the Co-Founder and the Customer Success team to build products to support security and compliance for growing customer infrastructure.
+
+Building Infrastructural backend engines on cloud-based platforms like Azure and GCP
+Scaling infrastructure to support multiplatform applications (Windows, MacOS, Ubuntu)
+Maintaining a deep understanding of the customer’s and market needs
+Architecting engineering processed to enable and inspire security-first thinking
+Support customer-facing web-based platforms (NextJS, TypeScript, Postgres)
+You’ll also lay the groundwork for engineering and product processes, ensuring that our team can continue to build quickly and serve our customers for years to come. Our stack leverages NextJS, TypeScript, Postgres, Azure, Go, and Electron. We firmly believe that exceptional engineers can master any tech stack, so lack of experience with our specific tools should not deter you from applying. We focus on the ability to ship code quickly and continuously.
+
+About You:
+
+You have 7+ years of full-time experience in software engineering, specifically in either web-based customer SaaS platforms or multi-platform desktop applications and agents.
+Strong knowledge of best practices in modern software development such as deployments, CI/CD, Operating Systems, and Databases.
+Experience working with modern technologies such as NextJS, Postgres, and Azure.
+
+You might be a good addition if you:
+
+Have worked on security or compliance-based value driven product.
+Have experience working on large-scale desktop-based applications with cloud-based infrastructure problems.
+Enjoy understanding the nitty gritty of technical domains deeply.
+Comfortable with building on all three operating systems.
+You move quickly, are self-motivated, can roll up your sleeves and are comfortable with ambiguity.
