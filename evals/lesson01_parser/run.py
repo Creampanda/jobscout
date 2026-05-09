@@ -2,16 +2,17 @@ import json
 import time
 from decimal import Decimal
 from pathlib import Path
-
-from jobscout.parsers.job_parser import parse_job
-
-JOBS_DIR = Path("data/jobs_raw")
-RESULTS_PATH = Path("evals/lesson01_parser/results.jsonl")
 from datetime import datetime, timezone
 
-run_timestamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S")
-RESULTS_DIR = Path("evals/lesson01_parser/results") / run_timestamp
-RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+from jobscout.parsers.job_parser import parse_job
+import os
+
+RUN_NAME = os.environ.get("RUN_NAME") or datetime.now(timezone.utc).strftime(
+    "%Y%m%dT%H%M%SZ"
+)
+
+JOBS_DIR = Path("data/jobs_raw")
+RESULTS_DIR = Path("evals/lesson01_parser/results") / RUN_NAME
 RESULTS_PATH = RESULTS_DIR / "results.jsonl"
 
 
