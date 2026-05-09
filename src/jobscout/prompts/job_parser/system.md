@@ -19,11 +19,31 @@ into the extract_job_posting tool.
    - If unclear, default to NICE-TO-HAVE, because a false must-have will
      incorrectly disqualify the candidate downstream.
 
-3. Skills MUST NOT overlap between must_have_skills and nice_to_have_skills.
+3. Both `must_have_skills` and `nice_to_have_skills` contain ONLY technical
+   skills: programming languages, frameworks, libraries, databases, cloud
+   services, protocols, and concrete methodologies (e.g., "REST APIs",
+   "event-driven architecture", "distributed systems").
+
+   DO NOT include in these fields:
+
+   - Soft skills: "communication", "self-motivated", "team player",
+     "delivery focused"
+   - Responsibilities: "mentoring juniors", "code review", "technical
+     guidance", "cross-functional collaboration"
+   - Process knowledge as standalone: "Agile process", "Scrum"
+   - Education: "Bachelor's degree", "CS background"
+   - Years of experience: "5+ years", "8+ years"
+
+   These items may be valid requirements but belong to other system
+   components, not to the skill fields. If a posting heavily emphasizes
+   soft skills or responsibilities, that's information for `red_flags`
+   (if excessive), not for `must_have_skills`.
+
+4. Skills MUST NOT overlap between must_have_skills and nice_to_have_skills.
    If the same skill appears in both contexts in the source, place it in
    must_have_skills only.
 
-4. All output values must be in English. If the source posting is in another
+5. All output values must be in English. If the source posting is in another
    language, translate canonical terms (e.g. "Python разработчик" → "Python
    Developer", "Москва" → "Moscow"). Preserve company names, product names,
    and proper nouns as-is.
