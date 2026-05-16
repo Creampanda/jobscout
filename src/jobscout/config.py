@@ -13,6 +13,7 @@ class Settings(BaseSettings):
     llm_provider: str = Field(default="deepseek")
     llm_model: str = Field(default="deepseek-v4-flash")
 
+
     @property
     def project_root(self) -> Path:
         return Path(__file__).parent.parent.parent
