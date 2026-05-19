@@ -1,0 +1,21 @@
+{
+  "model": "deepseek-v4-flash",
+  "rounds_used": 3,
+  "stop_reason": "end_turn",
+  "total_input_tokens": 36351,
+  "total_output_tokens": 2009,
+  "total_cost_usd": "0.006722",
+  "system_prompt_hash": "5a3117c6",
+  "timestamp": "2026-05-19T18:22:57.144108Z",
+  "skills": [
+    "python"
+  ],
+  "jobs_extracted": 3,
+  "tool_calls_total": 5,
+  "tool_calls_by_name": {
+    "search_remote_jobs": 1,
+    "search_european_jobs": 1,
+    "extract_job_posting": 3
+  },
+  "final_text": "Here's a summary of the relevant remote jobs found for your **Python** skills:\n\n---\n\n**1. Senior Full-stack React Developer** — Lemon.io\n- Fully remote (Americas, Europe, Asia, Oceania)\n- Python listed in stack alongside many other technologies\n- Marketplace connecting devs with US/European startups\n- Salary not disclosed\n- https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711\n\n**2. Senior DevOps Engineer** — Lemon.io\n- Fully remote (Americas, Europe, Asia, Oceania)\n- Python listed in stack, plus Kubernetes, Terraform, AWS, Azure, GCP\n- Marketplace connecting engineers with startups\n- Salary not disclosed\n- https://remotive.com/remote-jobs/devops/senior-devops-engineer-2090002\n\n**3. AI Engineer** — Dry Ground AI\n- Fully remote (Brazil, Colombia, Philippines — $40k–$60k)\n- Core stack: Python, TensorFlow/PyTorch, NLP, CI/CD, cloud\n- Building AI/ML models and agentic systems for clients\n- No red flags\n- https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958"
+}

@@ -1,0 +1,21 @@
+{
+  "model": "deepseek-v4-flash",
+  "rounds_used": 3,
+  "stop_reason": "end_turn",
+  "total_input_tokens": 34993,
+  "total_output_tokens": 1710,
+  "total_cost_usd": "0.006478",
+  "system_prompt_hash": "4aa2e78e",
+  "timestamp": "2026-05-19T18:54:43.488671Z",
+  "skills": [
+    "go"
+  ],
+  "jobs_extracted": 4,
+  "tool_calls_total": 6,
+  "tool_calls_by_name": {
+    "search_remote_jobs": 1,
+    "search_european_jobs": 1,
+    "extract_job_posting": 4
+  },
+  "final_text": "Here's a summary of the relevant remote jobs I found for your **Go** skills:\n\n---\n\n**1. Senior Independent Software Developer** — A.Team\n🌍 Remote (Americas, Europe, Israel)\n💰 $90–$150/hr\n🔗 https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265\n\n**2. Senior Independent AI Engineer / Architect** — A.Team\n🌍 Remote (Americas, Europe, Israel)\n💰 $120–$170/hr\n🔗 https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266\n\n**3. Senior Full-stack React Developer** — Lemon.io\n🌍 Remote (Worldwide)\n💰 Salary not disclosed\n🔗 https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711\n\n**4. Senior DevOps Engineer** — Lemon.io\n🌍 Remote (Worldwide)\n💰 Salary not disclosed\n🔗 https://remotive.com/remote-jobs/devops/senior-devops-engineer-2090002\n\n---\n\nAll four are fully remote positions. The A.Team roles explicitly list **Go** in their tech stack, while the Lemon.io roles list **Golang** among their many tags — so your Go skills are a match. The A.Team roles also have transparent hourly rates, which is a plus. No relevant Go positions were found in the European (Arbeitnow) listings."
+}
